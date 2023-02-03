@@ -1,7 +1,6 @@
 # Architecture-Types-Application
 
 # DefineX_Java_Spring_Practicium_First_Task
-## House Types Application
 ### Features
 
 - Built using JDK version 19.0.1
